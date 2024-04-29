@@ -6,7 +6,7 @@ http://tv.aliflailabd.com:8989/hbo/index.m3u8
 
 <<<<<<< HEAD
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="Unsorted",Gazi TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://198.51.100.100/hls/5008.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony SIX HD"  group-title="Unsorted",Sony SIX HD
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
