@@ -12,7 +12,7 @@ http://198.51.100.100/hls/5008.m3u8
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tsports HD"  group-title="Unsorted",Tsports HD
-http://tv.aliflailabd.com:8989/tsports/index.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duranta TV"  group-title="Unsorted",Duranta TV
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
@@ -61,7 +61,7 @@ http://103.205.133.19/hls/banglatv.m3u8
 http://103.205.133.19/hls/channel24.m3u8
 
 #EXTINF:6 , DBC NEWS
-http://103.205.133.19/hls/dbcnews.m3u8
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:7 ,Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
